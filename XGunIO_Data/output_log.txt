@@ -24,7 +24,7 @@ Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed
 Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\GUIAnimator.dll into Unity Child Domain
 Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\SampleClassLibrary.dll (this message is harmless)
 Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\SampleClassLibrary.dll into Unity Child Domain
-- Completed reload, in  0.104 seconds
+- Completed reload, in  0.117 seconds
 Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 4366x2101 at -1366,-840
@@ -32,7 +32,7 @@ desktop: 1920x1080 60Hz; virtual: 4366x2101 at -1366,-840
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.071164 ms
+UnloadTime: 3.017321 ms
 Mode=OnlineIO
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
@@ -56,20 +56,20 @@ Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed
 
 Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Mono.Security.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2680 -> priority: 1 
-139.162.61.173:8787 OK  s={"timestamp":"0","list":[{"roomId":"C7pAG","gameUid":"TankIO2","currentCount":0,"maxPlayerCount":35}]}
+  Thread -> id: 148 -> priority: 1 
+139.162.61.173:8787 OK  s={"timestamp":"0","list":[{"roomId":"C7pAG","gameUid":"TankIO2","currentCount":1,"maxPlayerCount":35}]}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-45.56.100.80:8787 OK  s={"timestamp":"0","list":[{"roomId":"Zys4E","gameUid":"TankIO2","currentCount":0,"maxPlayerCount":35}]}
+45.56.100.80:8787 OK  s={"timestamp":"0","list":[{"roomId":"Zys4E","gameUid":"TankIO2","currentCount":5,"maxPlayerCount":35}]}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-139.162.245.238:8787 OK  s={"timestamp":"0","list":[{"roomId":"dP4BE","gameUid":"TankIO2","currentCount":0,"maxPlayerCount":35}]}
+139.162.245.238:8787 OK  s={"timestamp":"0","list":[{"roomId":"dP4BE","gameUid":"TankIO2","currentCount":13,"maxPlayerCount":35}]}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-ws://139.162.61.173:8787/rfws connected
+ws://45.56.100.80:8787/rfws connected
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -77,7 +77,47 @@ WebSocket connect......
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-joinBattle={"information":{"gameId":"TankIO2","playList":["Mkmjyf01"],"initCount":3},"meId":"Mkmjyf01","stamp":"1.687673","index":0,"playedTime":12794273,"success":true,"exceptionName":null}
+player/ready={"sessionId":"cHiw7A3D","index":5}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+joinBattle={"information":{"gameId":"TankIO2","playList":["Emm2CcRd","cHiw7A3D","RL7bVxKI","9pmDigtd","Hirc6XRL","rVJl1b8Q"],"initCount":3},"meId":"cHiw7A3D","stamp":"2.091707","index":5,"playedTime":100947182,"success":true,"exceptionName":null}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -113,43 +153,11 @@ Parent of RectTransform is being set with parent property. Consider using the Se
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+RemoteTank onRemoved
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-player/ready={"sessionId":"Mkmjyf01","index":0}
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Look rotation viewing vector is zero
- 
-(Filename:  Line: 82)
-
-Look rotation viewing vector is zero
- 
-(Filename:  Line: 82)
-
-Look rotation viewing vector is zero
- 
-(Filename:  Line: 82)
-
-Look rotation viewing vector is zero
- 
-(Filename:  Line: 82)
-
-Look rotation viewing vector is zero
- 
-(Filename:  Line: 82)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+player/ready={"sessionId":"Pqn3ax0E","index":6}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -233,47 +241,7 @@ Immuned
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-onMouseExit
+Immuned
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -281,7 +249,7 @@ Immuned
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-onMouseExit
+Immuned
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -297,7 +265,124 @@ Immuned
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-Immuned
+player/ready={"sessionId":"Zo0SGxpG","index":6}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.String,RFNEet.RemoteObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at RFNEet.SyncCenter.findSyncObject (System.String pid, System.String oid) [0x00000] in <filename unknown>:0 
+  at CommRemoteItem.onRemoveTrigger (RFNEet.RemoteData rd, RFNEet.SyncCenter syncCenter, TDSTK.Collectible item) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RemoteTank onRemoved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RemoteTank onRemoved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RemoteTank onRemoved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+player/ready={"sessionId":"qDALzXnu","index":4}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteItem.onRemoveTrigger (RFNEet.RemoteData rd, RFNEet.SyncCenter syncCenter, TDSTK.Collectible item) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteItem.onRemoveTrigger (RFNEet.RemoteData rd, RFNEet.SyncCenter syncCenter, TDSTK.Collectible item) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+player/ready={"sessionId":"jFbwsjGp","index":5}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteItem.onRemoveTrigger (RFNEet.RemoteData rd, RFNEet.SyncCenter syncCenter, TDSTK.Collectible item) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RemoteTank onRemoved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+player/ready={"sessionId":"5cI4VFq3","index":5}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -305,9 +390,311 @@ game over - lost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
+give him exp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
 System.NullReferenceException: 
   at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
   at KillBroadcast.show () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at KillBroadcast.show () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.020142 ms
+Mode=OnlineIO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+
+Unloading 221 unused Assets to reduce memory usage. Loaded Objects now: 5879.
+Total: 40.596245 ms (FindLiveObjects: 1.225478 ms CreateObjectMapping: 0.962061 ms MarkObjects: 37.211735 ms  DeleteObjects: 1.177964 ms)
+
+139.162.61.173 GO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+45.56.100.80 GO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+139.162.245.238 GO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+139.162.61.173:8787 OK  s={"timestamp":"130.1163","list":[{"roomId":"C7pAG","gameUid":"TankIO2","currentCount":2,"maxPlayerCount":35}]}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+45.56.100.80:8787 OK  s={"timestamp":"130.1163","list":[{"roomId":"Zys4E","gameUid":"TankIO2","currentCount":4,"maxPlayerCount":35}]}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+139.162.245.238:8787 OK  s={"timestamp":"130.1163","list":[{"roomId":"dP4BE","gameUid":"TankIO2","currentCount":13,"maxPlayerCount":35}]}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ws://139.162.61.173:8787/rfws connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+WebSocket connect...... 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+joinBattle={"information":{"gameId":"TankIO2","playList":["9OhltZMY","Dk0fno9e","KGQj7BEP"],"initCount":3},"meId":"KGQj7BEP","stamp":"132.2237","index":2,"playedTime":111834807,"success":true,"exceptionName":null}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+player/ready={"sessionId":"KGQj7BEP","index":2}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+onAllRemotePlayerReadyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.678099 ms
+
+Unloading 164 unused Assets to reduce memory usage. Loaded Objects now: 3536.
+Total: 16.003435 ms (FindLiveObjects: 0.377450 ms CreateObjectMapping: 0.332977 ms MarkObjects: 14.974475 ms  DeleteObjects: 0.314351 ms)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteAi.syncPos (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at CommRemoteAi.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteAi.syncPos (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at CommRemoteAi.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteAi.syncPos (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at CommRemoteAi.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteAi.syncPos (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at CommRemoteAi.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteAi.syncAttckDamge (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at CommRemoteAi.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncMove (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncMove (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at CommRemoteAi.syncAttckDamge (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at CommRemoteAi.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncMove (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.NullReferenceException: 
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at AiFakePlayer.syncFire (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at AiFakePlayer.onRemoteUpdate (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+  at RFNEet.RemoteObject.update (RFNEet.RemoteData s) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Logout ok
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
