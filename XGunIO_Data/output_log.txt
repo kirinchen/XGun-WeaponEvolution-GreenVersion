@@ -1,0 +1,181 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.Purchasing.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\UnityEngine.Purchasing.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\GETween.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\GUIAnimator.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\GUIAnimator.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Common.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Common.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Security.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Security.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Stores.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Stores.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Apple.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Apple.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Tizen.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Tizen.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\winrt.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\winrt.dll into Unity Child Domain
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\SampleClassLibrary.dll (this message is harmless)
+Loading C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\SampleClassLibrary.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4366x2101 at -1366,-840
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.926036 ms
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Kirin\git\XGun.IO-Destop-Version\XGunIO_Data\Managed\System.Xml.dll (this message is harmless)
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.339158 ms
+Mode=Single
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 13439.
+Total: 7.920051 ms (FindLiveObjects: 0.550784 ms CreateObjectMapping: 0.931658 ms MarkObjects: 6.231585 ms  DeleteObjects: 0.159647 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 238c -> priority: 1 
+NONE connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+joinBattle={"information":{"gameId":"TankIO","playList":["4A9CTaZO"],"initCount":3},"meId":"4A9CTaZO","stamp":"1.200768","index":0,"playedTime":112908817,"success":true,"exceptionName":null}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+onAllRemotePlayerReadyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
